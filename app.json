@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "kassa-tz",
+    "slug": "snack-72c81f2f-c930-41f6-9b02-b49697b280d0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.webdevdias.snack72c81f2fc93041f69b02b49697b280d0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
