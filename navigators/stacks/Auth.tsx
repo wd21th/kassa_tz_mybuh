@@ -13,7 +13,6 @@ const Stack = createStackNavigator();
 export default function App() {
   return (
       <Stack.Navigator>
-        {/* <Stack.Screen name="Authorization" component={Sign_in} /> */}
         <Stack.Screen name="Kassa TZ" component={Login} />
       </Stack.Navigator>
   );
